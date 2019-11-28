@@ -3,7 +3,7 @@
 The script helps you scraping results from Immobilienscout24.de, the biggest real-estate website in Germany. Basically, it crawls the results of several source pages and export them to a .csv file.
 
 
-## Project Status
+## Status
 
 The script was part of a larger, personal project: I needed to scrape the website to pass the results to a target system (SFDC) via a Talend interface. Currently (November 2019) the script works like a charm. I will not maintain the code over time though. Should Immobilienscout24 change the HTML structure, the script will need to be updated accordingly. Feel free to step in as a maintainer.
 
