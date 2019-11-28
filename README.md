@@ -5,7 +5,7 @@ The script helps you scraping results from Immobilienscout24.de, the biggest rea
 
 ## Project Status
 
-The script was part of a larger, personal project: I needed to scrape the website to pass the results to a target system (SFDC) via a Talend interface. Currently (November 2019) the script works like a charm. I will not maintain the code over time though. Should Immobilienscout24 change the HTML structure, the script will need to be updated accordingly. Feel free to fork the project or step in as a maintainer.
+The script was part of a larger, personal project: I needed to scrape the website to pass the results to a target system (SFDC) via a Talend interface. Currently (November 2019) the script works like a charm. I will not maintain the code over time though. Should Immobilienscout24 change the HTML structure, the script will need to be updated accordingly. Feel free to step in as a maintainer.
 
 
 ## Description
