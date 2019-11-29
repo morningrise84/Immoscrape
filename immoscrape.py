@@ -1,4 +1,4 @@
-﻿__author__ = "Manfredi Pomar"
+﻿__author__ = "M. Pomar"
 __email__ = "m.pomar@outlook.com"
 
 #module import#
