@@ -1,6 +1,3 @@
-﻿__author__ = "M. Pomar"
-__email__ = "m.pomar@outlook.com"
-
 #module import#
 from bs4 import BeautifulSoup
 import requests
