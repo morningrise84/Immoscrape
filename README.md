@@ -43,7 +43,3 @@ For each property you are going to store in the .csv file the following informat
 ## Final comments
 Please keep in mind I am new to Python and I do not work as a programmer: I am pretty sure it would have been possible to write a better code... But, hey, in the end mine works too and that's what really counts! :-D
 
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
